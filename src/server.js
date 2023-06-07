@@ -23,7 +23,7 @@ function dataHandler (req,res) {
     res.send ({
         id:1,
         name: 'Mohammad',
-        time: req.timeStamp,
+        time: req.timeStamp
     })
 }
 
