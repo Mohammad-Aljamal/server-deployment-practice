@@ -24,7 +24,7 @@ function dataHandler (req,res) {
         id:1,
         name: 'Mohammad',
         time: req.timeStamp,
-        //kmkmm
+        
     })
 }
 
